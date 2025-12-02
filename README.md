@@ -2,7 +2,6 @@
 
 Developer: [Gabriel Alejandro Michielon Perez](https://www.linkedin.com/in/gabriel-alejandro-michielon-perez/)
 
-
 Here is a complete list of the video game development projects I have **created** or **participated** in.
 
 This includes both a **demo video** and the **build/program** itself to test it.
